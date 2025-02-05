@@ -4,6 +4,7 @@ public class Arrays {
 	
 	int[] matriz;
     
+	
     public Arrays(int numero) {
         
         matriz=new int[numero];

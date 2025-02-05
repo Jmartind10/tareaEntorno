@@ -11,6 +11,8 @@ public class VectorNombres {
 		nombre=new String[numero];
 	}
 	
+	
+	
 	public void setGuardarNombre(String valNombre) {
 		
 		nombre[posicion]=valNombre;

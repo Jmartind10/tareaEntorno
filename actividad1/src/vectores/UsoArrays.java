@@ -9,7 +9,7 @@ public class UsoArrays {
 		int opcion=Integer.parseInt(JOptionPane.showInputDialog("Dame una opcion (1-2)"));
 
 		if(opcion==1) {
-
+ 
 			Arrays miArray=new Arrays(5);
 
 			miArray.getDatosArray();
